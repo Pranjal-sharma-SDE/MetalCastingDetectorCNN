@@ -1,0 +1,7 @@
+venv
+./venv
+./venv/*
+.env
+./.env
+./casting_data
+casting_data
