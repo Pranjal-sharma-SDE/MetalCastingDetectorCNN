@@ -15,7 +15,7 @@ This project implements a Convolutional Neural Network (CNN) to automatically de
 - Google Colab (recommended for GPU acceleration)
 
 ### Dataset
-The dataset used in this project can be downloaded from [Kaggle](https://www.kaggle.com/koheimuramatsu/real-life-industrial-dataset-of-casting-product/data).
+The dataset used in this project can be downloaded from [Kaggle](https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product).
 
 ### Setup
 1. Clone this repository or download the project files
